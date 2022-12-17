@@ -1,0 +1,12 @@
+#navbarCollapse a,
+#navbarCollapse .toggleNav{
+    color: black;
+    transition: 1s;
+}
+#navbarCollapse a:hover,
+#navbarCollapse .toggleNav:hover{
+    color: white;
+}
+#navbarCollapse .fa-bell{
+    color: white;
+}
